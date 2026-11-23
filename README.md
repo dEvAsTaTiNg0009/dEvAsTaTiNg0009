@@ -168,7 +168,7 @@ As access patterns concentrate, AHLC shifts policy and write amplification falls
 
 $\color{#818CF8}{\textsf{02 / FEATURED / MACHINE LEARNING}}$
 
-## [Bitcoin Anomaly Detection](https://github.com/dEvAsTaTiNg0009/bitcoin-anomaly-detection)
+## [Bitcoin Anomaly Detection](https://github.com/asminity/mini-project)
 <!-- TODO: update the link above after renaming the repo -->
 
 <img src="https://img.shields.io/badge/Python-3-818CF8?style=flat-square&labelColor=1E293B&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/domain-time%20series-818CF8?style=flat-square&labelColor=1E293B" /> <img src="https://img.shields.io/badge/task-anomaly%20detection-818CF8?style=flat-square&labelColor=1E293B" />
